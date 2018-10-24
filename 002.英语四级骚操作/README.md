@@ -1,6 +1,7 @@
 ## 程序介绍 
 一个本科学弟的投稿，十分厉害的学弟！
-文章链接如下： https://mp.weixin.qq.com/s/3ITJkPLaKyv3uuzxSnouNw
+文章链接如下： 
+https://mp.weixin.qq.com/s/3ITJkPLaKyv3uuzxSnouNw
 
 这是一个单词频率统计程序 基于python3  
 - 自动批量收集文件中的英语单词 txt (utf-8)  
