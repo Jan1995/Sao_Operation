@@ -6,4 +6,6 @@
 
 #最后，欢迎关注公众号【小詹学Python】
 
-#附上公号精选文章： https://mp.weixin.qq.com/s/8Rn3gDQabkb5RV-oQETmFQ
+#附上公号精选文章： https://mp.weixin.qq.com/s/NHah-492h4OHLmuM36F_ZQ
+
+
